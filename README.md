@@ -10,3 +10,4 @@
 
 ## 문제 링크
 - [1.3 두 수의 합](Array/1_3_two_sum/README.md)
+- [1.4 정렬된 배열에서 중복 제거](Array/1_4_remove_duplicates/README.md)
