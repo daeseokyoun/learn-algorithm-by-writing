@@ -7,3 +7,6 @@
 - Python 3.7 이상
 - IDE로는 VS code를 추천
 ### 챕터별 디렉토리에서 코드를 찾아 실행
+
+## 문제 링크
+- [1.3 두 수의 합](Array/1_3_two_sum/README.md)
