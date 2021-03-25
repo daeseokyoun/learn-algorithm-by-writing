@@ -9,8 +9,10 @@
 ### 챕터별 디렉토리에서 코드를 찾아 실행
 
 ## 문제 링크
+### 배열
 - [1.3 두 수의 합](Array/1_3_two_sum/README.md)
 - [1.4 정렬된 배열에서 중복 제거](Array/1_4_remove_duplicates/README.md)
 - [1.5 배열에서 삽입 위치 찾기](Array/1_5_search_insert/README.md)
 - [1.6 정렬된 배열 병합](Array/1_6_merge/README.md)
 - [1.7 정렬된 배열 병합 II](Array/1_7_merge_arr_2/README.md)
+- [1.8 파스칼의 삼각형](Array/1_8_pascals_triangle/README.md)
