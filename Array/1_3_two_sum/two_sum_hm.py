@@ -1,6 +1,7 @@
 # Hashmap을 이용한 방법
 # Brute Force 방법으로 문제 풀이
 from typing import List
+import collections
 
 tests = {
     1: ([2, 7, 8, 11], 9)
@@ -25,11 +26,14 @@ def twoSum(nums: List[int], target: int) -> List[int]:
 
     return [-1, -1]
 
+def is_same_list(alist: List, blist: List):
+    return collections.Counter(alist) == collections.Counter(blist)
 
 def check_result(index: int, output: List):
     if index > len(tests):
         raise RuntimeError(f'Failed to get {index}th case')
-    return bool(set(res.get(index, [])).intersection(output))
+
+    return is_same_list(output, res.get(index, []))
 
 def main():
     for index, data in tests.items():

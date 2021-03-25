@@ -1,4 +1,5 @@
 from typing import List
+import collections
 
 tests = {
     # (nums1, m, nums2, n)
@@ -35,10 +36,13 @@ def merge(nums1: List[int], m: int, nums2: List[int], n: int) -> None:
         k -= 1
         j -= 1
 
+def is_same_list(alist: List, blist: List):
+    return collections.Counter(alist) == collections.Counter(blist)
+
 def check_result(index: int, output: List):
     if index > len(tests):
         raise RuntimeError(f'Failed to get {index}th case')
-    return bool(set(res.get(index, [])).intersection(output))
+    return is_same_list(output, res.get(index, []))
 
 def main():
     for index, data in tests.items():
