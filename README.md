@@ -16,3 +16,4 @@
 - [1.6 정렬된 배열 병합](Array/1_6_merge/README.md)
 - [1.7 정렬된 배열 병합 II](Array/1_7_merge_arr_2/README.md)
 - [1.8 파스칼의 삼각형](Array/1_8_pascals_triangle/README.md)
+- [1.9 배열에서 다수의 요소 찾기](Array/1_9_majority_element/README.md)
