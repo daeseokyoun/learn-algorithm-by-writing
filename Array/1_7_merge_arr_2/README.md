@@ -22,6 +22,6 @@ def merge(nums1: List[int], m: int, nums2: List[int], n: int) -> None:
   문제가 있습니다.(```>>>``` 표시된 부분)
 - 재 수정된 코드 참고 바랍니다.
 ### Brute force 방법
-- [merge_arr_bf.py](merge_arr_sorted.py)
+- [merge_arr_bf.py](merge_arr_bf.py)
 ### GeeksforGeeks
  - https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays/0
