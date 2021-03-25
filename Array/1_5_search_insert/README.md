@@ -1,7 +1,9 @@
 ## 정렬된 배열에서 중복 제거
 - Page 51
-### Brute Force method
+### 선형 탐색(Linear Search)
 - [search_insert_linear.py](search_insert_linear.py)
+### 이진 탐색(Binary Search Tree Search)
+- [search_insert_bst.py](search_insert_bst.py)
 ### LeetCode
 - https://leetcode.com/problems/search-insert-position/
 ### HackerEarch
