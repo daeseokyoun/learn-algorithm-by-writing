@@ -2,6 +2,7 @@
 - Page 70
 ### 수정 사항
 - 코드의 변경이 있습니다.
+
 기존 코드
 ```python
 def merge(nums1: List[int], m: int, nums2: List[int], n: int) -> None:
