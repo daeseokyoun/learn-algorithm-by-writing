@@ -41,3 +41,4 @@
 ### 연결리스트
 - [3.4 연결리스트 뒤집기](LinkedList/3_4_revert_list/README.md)
 - [3.5 순환 검출](LinkedList/3_5_cycle_detect/README.md)
+- [3.6 두 수 더하기](LinkedList/3_6_add_two_num/README.md)
