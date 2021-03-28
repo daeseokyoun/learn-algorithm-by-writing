@@ -42,3 +42,5 @@
 - [3.4 연결리스트 뒤집기](LinkedList/3_4_revert_list/README.md)
 - [3.5 순환 검출](LinkedList/3_5_cycle_detect/README.md)
 - [3.6 두 수 더하기](LinkedList/3_6_add_two_num/README.md)
+### 스택
+- [4.3 유효한 괄호 검증](Stack/4_3_valid_parentheses/README.md)
