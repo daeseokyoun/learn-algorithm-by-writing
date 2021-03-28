@@ -1,4 +1,4 @@
-## 배열의 회전
+## 애너그램(anagram)
 - Page 143
 ### 정렬 및 해시테이블
 - [anagram_sort.py](anagram_sort.py)
