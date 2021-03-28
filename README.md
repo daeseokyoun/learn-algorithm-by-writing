@@ -18,7 +18,7 @@
 
 ## 이슈
 ### 이슈 등록
-- 실행 시 문제가 있거나, 내용에 의문이 있다면 언제든 daeseok.youn@gmail.com으로 이메이나
+- 실행 시 문제가 있거나, 내용에 의문이 있다면 언제든 daeseok.youn@gmail.com으로 이메일이나
   github 이슈에 남겨 주시면 정성드려 답변 드리도록 하겠습니다.
 
 ## 문제 링크
@@ -36,3 +36,4 @@
 - [1.14 단어찾기](Array/1_14_find_word/README.md)
 ### 문자열
 - [2.3 회문 확인](String/2_3_palindrome/README.md)
+- [2.4 애너그램(anagram)](String/2_4_anagram/README.md)
