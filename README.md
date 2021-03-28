@@ -1,11 +1,19 @@
 # learn-algorithm-by-writing
 ## 쓰면서 익히는 알고리즘과 자료구조
 ### 소개
-- 배열, 문자열, 연결리스트, 스택, 재귀, 동적 프로래밍 등을 학습하기 위한 알고리즘 문제들을 풀어보도록 하자.
-- 문제들은 [leetcode](https://leetcode.com/), [hackerrank](https://www.hackerrank.com/), [geeksforgeeks](https://www.geeksforgeeks.org/)에서 찾아 볼 수 있고 문제 풀이를 시도 해 볼 수 있다.
+- 배열, 문자열, 연결리스트, 스택, 재귀, 동적 프로래밍 등을 학습하기 위한 알고리즘 문제들을 풀어보도록 구성했습니다.
+- 문제들은 [leetcode](https://leetcode.com/), [hackerrank](https://www.hackerrank.com/), [geeksforgeeks](https://www.geeksforgeeks.org/)에서 찾아 볼 수 있고 문제 풀이를 시도 해볼 수 있습니다.
 ### 실행 환경
 - Python 3.7 이상
 - IDE로는 VS code를 추천
+### 책 구매 링크
+- [예스24](http://www.yes24.com/Product/Goods/98828718)
+- [교보문고](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162244104&orderClick=LEa&Kc=)
+- [알라딘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=267996120)
+- [영풍문고](https://www.ypbooks.co.kr/book.yp)
+- [인터파크](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.prdNo=348050838&sc.saNo=003002003&bid1=search_auto&bid2=detail&bid3=prd_nm&bid4=001)
+- [쿠팡](https://www.coupang.com/vp/products/5231620256?itemId=7367310356&vendorItemId=74689525535&q=%EC%9C%A4%EB%8C%80%EC%84%9D&itemsCount=17&searchId=da50db39cd1d45b4868b13bbc273bef7&rank=1&isAddedCart=)
+
 ### 챕터별 디렉토리에서 코드를 찾아 실행
 
 ## 이슈
