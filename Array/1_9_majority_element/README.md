@@ -1,4 +1,4 @@
-## 파스칼의 삼각형
+## 배열에서 다수의 요소 찾기
 - Page 84
 ### Brute force 방법
 - [majority_element_bf.py](majority_element_bf.py)

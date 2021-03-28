@@ -1,4 +1,4 @@
-## 배열의 회전
+## 단어찾기
 - Page 120
 ### Brute force 방법
 - [exist_bf.py](exist_bf.py)

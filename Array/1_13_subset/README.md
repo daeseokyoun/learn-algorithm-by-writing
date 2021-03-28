@@ -1,4 +1,4 @@
-## 배열의 회전
+## 부분집합
 - Page 110
 ### Brute force 방법
 - [subset_bf.py](subset_bf.py)

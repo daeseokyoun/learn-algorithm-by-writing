@@ -37,3 +37,4 @@
 ### 문자열
 - [2.3 회문 확인](String/2_3_palindrome/README.md)
 - [2.4 애너그램(anagram)](String/2_4_anagram/README.md)
+- [2.5 IPv4 / IPv6 검증 시스템](String/2_5_ipv4ipv6/README.md)

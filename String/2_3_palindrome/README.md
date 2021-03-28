@@ -1,4 +1,4 @@
-## 배열의 회전
+## 회문 확인
 - Page 137
 ### 인덱스 접근
 - [palindrome.py](palindrome.py)

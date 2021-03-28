@@ -1,4 +1,4 @@
-## 배열의 회전
+## 빠진 숫자 찾기
 - Page 100
 ### Brute force 방법
 - [missing_num_sort.py](missing_num_sort.py)
