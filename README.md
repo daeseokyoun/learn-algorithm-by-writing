@@ -8,6 +8,11 @@
 - IDE로는 VS code를 추천
 ### 챕터별 디렉토리에서 코드를 찾아 실행
 
+## 이슈
+### 이슈 등록
+- 실행 시 문제가 있거나, 내용에 의문이 있다면 언제든 [email](daeseok.youn@gmail.com)이나
+  github 이슈에 남겨 주시면 정성드려 답변 드리도록 하겠습니다.
+
 ## 문제 링크
 ### 배열
 - [1.3 두 수의 합](Array/1_3_two_sum/README.md)
@@ -21,3 +26,5 @@
 - [1.11 빠진 숫자 찾기](Array/1_11_missing_num/README.md)
 - [1.13 부분집합](Array/1_13_subset/README.md)
 - [1.14 단어찾기](Array/1_14_find_word/README.md)
+### 문자열
+- [2.3 회문 확인](String/2_3_palindrome/README.md)
