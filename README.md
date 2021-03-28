@@ -44,3 +44,7 @@
 - [3.6 두 수 더하기](LinkedList/3_6_add_two_num/README.md)
 ### 스택
 - [4.3 유효한 괄호 검증](Stack/4_3_valid_parentheses/README.md)
+- [4.5.1 계단 오르기](Stack/4_5_1_stairs/README.md)
+- [4.5.2 모든 문자열 치환(permutation)](Stack/4_5_2_permutation/README.md)
+- [4.5.3 동전 교환](Stack/4_5_3_coin_change/README.md)
+- [4.5.4 배열의 두 부분집합의 최소 차이만들기](Stack/4_5_4_min_diff/README.md)
