@@ -19,3 +19,4 @@
 - [1.9 배열에서 다수의 요소 찾기](Array/1_9_majority_element/README.md)
 - [1.10 배열의 회전](Array/1_10_rotate/README.md)
 - [1.11 빠진 숫자 찾기](Array/1_11_missing_num/README.md)
+- [1.13 부분집합](Array/1_12_subset/README.md)
