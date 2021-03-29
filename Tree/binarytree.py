@@ -36,3 +36,21 @@ class BinaryTree:
                     parent.left = node
                 else:
                     parent.right = node
+
+    def inorder_traverse(self, head = None):
+        result = []
+
+        if head == None:
+            self._inorder_rec(self.__root, result)
+        else:
+            self._inorder_rec(head, result)
+
+        return result
+
+    def _inorder_rec(self, node, result):
+        if not node:
+            return
+
+        self._inorder_rec(node.left, result)
+        result.append(node.data)
+        self._inorder_rec(node.right, result)
