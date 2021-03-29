@@ -7,9 +7,3 @@
 - https://leetcode.com/problems/partition-equal-subset-sum/
 ### GeeksForGeeks
 - https://practice.geeksforgeeks.org/problems/minimum-sum-partition/0
-
-
-
-
-
-

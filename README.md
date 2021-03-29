@@ -48,3 +48,5 @@
 - [4.5.2 모든 문자열 치환(permutation)](Stack/4_5_2_permutation/README.md)
 - [4.5.3 동전 교환](Stack/4_5_3_coin_change/README.md)
 - [4.5.4 배열의 두 부분집합의 최소 차이만들기](Stack/4_5_4_min_diff/README.md)
+### 트리
+- [6.6 트리 경로의 합](Tree/6_6_path_sum/README.md)
