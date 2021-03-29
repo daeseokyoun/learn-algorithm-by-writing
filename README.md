@@ -50,3 +50,4 @@
 - [4.5.4 배열의 두 부분집합의 최소 차이만들기](Stack/4_5_4_min_diff/README.md)
 ### 트리
 - [6.6 트리 경로의 합](Tree/6_6_path_sum/README.md)
+- [6.7 세번째 큰 수](Tree/6_7_third_num/README.md)
