@@ -52,3 +52,4 @@
 - [6.6 트리 경로의 합](Tree/6_6_path_sum/README.md)
 - [6.7 세번째 큰 수](Tree/6_7_third_num/README.md)
 - [6.8 이진 트리 반전](Tree/6_8_invert_tree/README.md)
+- [6.9 이진 트리 검증](Tree/6_9_valid_bst/README.md)
