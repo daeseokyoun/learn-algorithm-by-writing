@@ -53,3 +53,6 @@
 - [6.7 세번째 큰 수](Tree/6_7_third_num/README.md)
 - [6.8 이진 트리 반전](Tree/6_8_invert_tree/README.md)
 - [6.9 이진 트리 검증](Tree/6_9_valid_bst/README.md)
+### 동적 프로그래밍
+- [7.2 동일 합으로 배열 분할 문제](DP/7_2_divide_equal_sum/README.md)
+- [7.3 동전교환](DP/7_3_coin_change/README.md)
