@@ -56,3 +56,4 @@
 ### 동적 프로그래밍
 - [7.2 동일 합으로 배열 분할 문제](DP/7_2_divide_equal_sum/README.md)
 - [7.3 동전교환](DP/7_3_coin_change/README.md)
+- [7.4 최장 공통 부분 수열 (Longest Common Subsequence)](DP/7_4_LCS/README.md)

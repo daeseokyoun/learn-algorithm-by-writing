@@ -17,7 +17,7 @@ res = {
     5: 2
 }
 
-def check_result(index: int, output: bool):
+def check_result(index: int, output: int):
     if index > len(tests):
         raise RuntimeError(f'Failed to get {index}th case')
     return res.get(index, False) == output
